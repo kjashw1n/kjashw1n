@@ -19,7 +19,8 @@
 
 ### 💻 Programming Languages
 - Python  
-- Java (basic)  
+- Java
+- C  
 
 ### 🗄️ Databases
 - MySQL  
