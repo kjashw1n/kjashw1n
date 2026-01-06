@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jashveen Kumar Kolli
 
 🎓 Computer Science graduate with specialization in **Artificial Intelligence & Machine Learning**  
-🚀 Aspiring Master's student | AI • ML • Deep Learning • Data Science  
+🚀 Aspiring Master's student | AI • ML • Deep Learning 
 
 ---
 
