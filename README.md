@@ -46,9 +46,9 @@
 
 ---
 
-## 📌 Current Focus
-- Developing practical ML & NLP projects  
-- Strengthening AI foundations & deep learning concepts  
-- Building a strong GitHub portfolio for Master's applications  
+## 🚀 Projects
+- 🤖 **Machine Learning** — Supervised learning, regression models, ML pipelines  
+- 🧠 **Natural Language Processing** — Sentiment analysis, text vectorization, classification  
+- 🤖 **Deep Learning** — Artificial neural networks, model training & evaluation   
 
 ⭐ Feel free to explore my repositories below
